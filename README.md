@@ -12,3 +12,9 @@ or using ```webpack.config.js```
 ```
 	./node_modules/.bin/webpack --config webpack.config.js
 ```
+
+or using npm scripts:
+
+```
+	npm run build
+```
