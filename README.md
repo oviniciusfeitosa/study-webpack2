@@ -1,2 +1,2 @@
 # study_webpack
-WebPack repository only study proposes
+WebPack repository created only for study proposes
