@@ -1,4 +1,4 @@
-# study-webpack
+# study-webpack2
 
 WebPack repository only study proposes
 
